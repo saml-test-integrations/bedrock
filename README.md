@@ -2,7 +2,7 @@ Bedrock
 =======
 
 test ruleset
-test manual run again
+test manual run again and again
 
 *Bedrock* is the code name of [mozilla.org][mozilla]. It is as shiny,
 awesome, and open source as always. Perhaps even a little more.
