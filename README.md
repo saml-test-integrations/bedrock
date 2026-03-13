@@ -2,7 +2,7 @@ Bedrock
 =======
 
 test actions paths only again once more
-
+paths don't work
 *Bedrock* is the code name of [mozilla.org][mozilla]. It is as shiny,
 awesome, and open source as always. Perhaps even a little more.
 
